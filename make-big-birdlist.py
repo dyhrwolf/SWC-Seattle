@@ -8,10 +8,12 @@ Heron
 Stork
 Shoebill
 Vulture
+Chickadee
 Bald Eagle""".splitlines()
 
 states = """Kentucky
 Missouri
+Colorado
 Kansas
 Maine
 Michigan
