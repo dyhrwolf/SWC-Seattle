@@ -3,6 +3,7 @@ Common Teal
 Long-tailed Duck
 Little Grebe
 Albatross
+Sand Piper
 Flamingo
 Heron
 Stork
