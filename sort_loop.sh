@@ -1,3 +1,4 @@
+#!/bin/bash
 for file in mam*
 do
 	echo $file
