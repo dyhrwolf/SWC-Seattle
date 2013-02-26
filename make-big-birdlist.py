@@ -8,6 +8,8 @@ Flamingo
 Heron
 Stork
 Shoebill
+Mallard
+Loon
 Vulture
 Chickadee
 Bald Eagle""".splitlines()
